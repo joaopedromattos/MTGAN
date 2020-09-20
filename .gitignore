@@ -103,3 +103,6 @@ ENV/
 
 # IDE settings
 .vscode/
+
+*/*.jpg
+./magic_card_generator/dataset/raw.zip
